@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363183175074",
+    "firebase_url": "https://souqways-app-rn.firebaseio.com",
+    "project_id": "souqways-app-rn",
+    "storage_bucket": "souqways-app-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363183175074:android:b203ebdef0a6715c816efb",
+        "android_client_info": {
+          "package_name": "com.souqways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363183175074-vn9eiqp4lrag31268ihip6p0nlio0dc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrjv6KaqOZCesYo4yAMrGe3yM0A-KYyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363183175074-vn9eiqp4lrag31268ihip6p0nlio0dc0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363183175074-mbnm329oqldu7giced2kvfmclo6s5oa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.souqway"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

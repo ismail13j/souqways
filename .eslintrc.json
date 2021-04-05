@@ -1,0 +1,41 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "rules": {
+    "indent": ["off", 2],
+    "linebreak-style": ["error", "unix"],
+    "react/prop-types": 0,
+    "quotes": ["warn", "double"],
+    "semi": ["error", "always"],
+    "no-console": "error",
+    "constructor-super": "error",
+    "no-dupe-keys": "error",
+    "no-unused-vars": "error",
+    "no-debugger": "error",
+    "no-duplicate-imports": "error",
+    "no-empty-function": "warn",
+    "no-case-declarations": "off",
+    "camelcase": "off",
+    "no-useless-return": "error",
+    "no-useless-constructor": "error",
+    "no-useless-call": "error",
+    "no-unused-expressions": "error",
+    "no-func-assign": "error"
+  }
+}

@@ -1,0 +1,10 @@
+__test__
+android
+ios
+node_modules
+package-lock.json
+yarn.lock
+package.json
+babel.config.js
+metro.config.js
+app.js
